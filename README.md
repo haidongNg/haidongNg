@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on IVS
+- 🔭 I’m currently working on IVS.
+- 🌱 I'm currently learning new things.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidongNg&count_private=true&show_icons=true&theme=gruvbox)
 
