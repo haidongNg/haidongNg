@@ -9,7 +9,7 @@ I'm Dong(ドン). A Web Developer from Ho Chi Minh (Vietnam).
   <img src="https://github-readme-stats.vercel.app/api?username=haidongNg&count_private=true&show_icons=true" alt="Nguyen Hai Dong Github Stats"></img>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidongNg&langs_count=10&exclude_repo=mi-card-flutter&layout=compact" alt="Nguyen Hai Dong Github Top Langs"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidongNg&langs_count=10&exclude_repo=mi-card-flutter,fs04-api-xedike,frontend-xedike&layout=compact" alt="Nguyen Hai Dong Github Top Langs"></img>
 </p>
 
 <!--
