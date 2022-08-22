@@ -1,10 +1,16 @@
-### Hi there 👋
-- 🔭 I’m currently working on IVS.
-- 🌱 I'm currently learning new things.
+# Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidongNg&count_private=true&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haidongNg&langs_count=10&exclude_repo=mi-card-flutter&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<p align="start">
+  <samp>
+I'm Dong(ドン). A Web Developer from Ho Chi Minh (Vietnamese).
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haidongNg&count_private=true&show_icons=true" alt="Nguyen Hai Dong Github Stats"></img>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidongNg&langs_count=10&exclude_repo=mi-card-flutter&layout=compact" alt="Nguyen Hai Dong Github Top Langs"></img>
+</p>
 
 <!--
 **haidongNg/haidongNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
