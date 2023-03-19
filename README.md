@@ -2,7 +2,7 @@
 
 <p align="start">
   <samp>
-I'm Dong(ドン). A Web Developer from Ho Chi Minh (Vietnam).
+I'm Dong(ドン). A Developer from Ho Chi Minh (Vietnam).
   </samp>
   <br/>
   <br/>
